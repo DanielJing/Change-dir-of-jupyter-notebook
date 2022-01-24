@@ -1,5 +1,5 @@
 # Change-dir-of-jupyter-notebook
-1. Under the Windows10 environment, Open Anaconda Prompt and type  jupyter notebook --generate-config ,
+1. Under the Windows10 environment, Open Anaconda Prompt and type  _jupyter notebook --generate-config_ ,
 2. Type  y  to overwrite the default config,
 3. Go to  C:\Users\Administrator\.jupyter    open the _jupyter_notebook_config.py_  file,
 4. Press  Ctrl + F  and find  c.NotebookApp.notebook_dir,
